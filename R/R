@@ -1,0 +1,9 @@
+Assignment Operator in R: <-
+Called a variable & print hello world: message <- "Hello World"
+										print(message)
+
+Variable: 
+
+a = "fahim"
+a <- "fahim"
+assign("a", "fahim")

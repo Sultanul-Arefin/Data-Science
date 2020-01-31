@@ -1,0 +1,7 @@
+#!/usr/bin/python
+
+f=open('s2-titles.txt')
+lines=f.readlines()
+f.close()
+
+print "number of lines =", len(lines)
